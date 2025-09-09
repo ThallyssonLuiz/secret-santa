@@ -20,10 +20,6 @@
 
 :heavy_check_mark: Sorteio de amigos secreto sem limite de participantes;  
 
-## Pré-requisitos
-
-:warning: [Node](https://nodejs.org/en/download/)
-
 ## Como rodar a aplicação programada :arrow_forward:
 
 No terminal, clone o projeto com o código do GIT:
@@ -31,4 +27,5 @@ No terminal, clone o projeto com o código do GIT:
 ```
 git clone https://github.com/ThallyssonLuiz/secret-santa-main
 ```
+
 
